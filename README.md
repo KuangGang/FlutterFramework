@@ -1,8 +1,6 @@
-# flutterframework
+# FlutterFramework
 
-A new Flutter module.
+A Flutter framework with mvvm.
+Quick create flutter project.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
+### Use Provider + GetIt + RxDart + MVVM.
